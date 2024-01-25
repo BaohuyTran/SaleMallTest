@@ -1,0 +1,54 @@
+# frontend
+
+# dependencies
+/frontend/product-management/node_modules
+/frontend/product-management/.pnp
+/frontend/product-management/.pnp.js
+
+# testing
+/frontend/product-management/coverage
+
+# production
+/frontend/product-management/build
+
+# misc
+/frontend/product-management/.DS_Store
+/frontend/product-management/.env.local
+/frontend/product-management/.env.development.local
+/frontend/product-management/.env.test.local
+/frontend/product-management/.env.production.local
+
+/frontend/product-management/npm-debug.log*
+/frontend/product-management/yarn-debug.log*
+/frontend/product-management/yarn-error.log*
+
+# backend
+# Dependency directories
+/backend/node_modules/
+
+# Environment file
+/backend/.env
+
+# Log files
+/backend/logs/
+/backend/*.log
+
+# Output of 'npm pack'
+/backend/*.tgz
+
+# Optional: OS-specific files
+/backend/.DS_Store
+/backend/Thumbs.db
+
+# Optional: Editor-specific files
+/backend/.vscode/
+/backend/.idea/
+/backend/*.sublime-project
+/backend/*.sublime-workspace
+
+# Optional: Test coverage output
+/backend/coverage/
+
+# Optional: Built output
+/backend/dist/
+/backend/build/

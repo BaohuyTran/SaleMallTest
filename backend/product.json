@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Product 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et mauris in nunc fringilla hendrerit.",
+    "price": 19.99,
+    "image": "/resources/images/product.jpg"
+  },
+  {
+    "name": "Product 2",
+    "description": "Aenean vel massa quis velit suscipit interdum. Nullam bibendum, dolor vitae tincidunt cursus.",
+    "price": 29.99,
+    "image": "/resources/images/product.jpg"
+  },
+  {
+    "name": "Product 3",
+    "description": "Fusce non metus vel lectus feugiat volutpat. Integer quis sapien in nisi cursus hendrerit.",
+    "price": 39.99,
+    "image": "/resources/images/product.jpg"
+  },
+  {
+    "name": "Product 4",
+    "description": "Vivamus ac lectus at ligula scelerisque tincidunt. Ut auctor consequat felis, id imperdiet arcu efficitur ac.",
+    "price": 49.99,
+    "image": "/resources/images/product.jpg"
+  },
+  {
+    "name": "Product 5",
+    "description": "Suspendisse potenti. Mauris tristique dui ut metus rhoncus, vel vulputate erat tincidunt.",
+    "price": 59.99,
+    "image": "/resources/images/product.jpg"
+  }
+]
